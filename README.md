@@ -1,3 +1,3 @@
 # mock-up-screens
 
-[Sign Up - Unlock Account - Login Screens](https://excalidraw.com/#json=eK6rgvnOJh0mX5oxDFaBk,V8sfupDj1uxc1giXM52JmQ)
+[Sign Up - Unlock Account - Login Screens](https://excalidraw.com/#json=VSya-iQ6aLmA4-brWg1Rd,r_KUn7hvSMF-x4s1zpsn5A)
